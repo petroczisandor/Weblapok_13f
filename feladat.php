@@ -1,3 +1,3 @@
 <?php
-echo "proba feladat";
+echo "proba feladat"; /* megjegyzés hozzáfűzése */
 ?>
